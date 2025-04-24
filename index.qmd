@@ -1,0 +1,7 @@
+---
+title: "quarto-web"
+---
+
+This is a Quarto website dedicated to DSCI 310 Tutorial 9.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
